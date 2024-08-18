@@ -1,1 +1,2 @@
 # Detecting-COVID-19-From-Chest-X-Rays-Using-Deep-Learning-Techniques
+This project explores the application of deep learning techniques to automatically detect COVID-19 from chest X-ray images.The project involves building a convolutional neural network (CNN) to analyze and classify chest X-ray images into categories such as COVID-19, pneumonia, and healthy lungs. The model is trained on a curated dataset of labeled X-ray images
